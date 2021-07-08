@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankamerica
 - 👀 I’m interested in philosophy, cryptocurrency, and writing.
 - 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on the intersection of finance, philosophy, and gaming.
+- 💞️ I’m looking to collaborate on the intersection of finance and gaming.
 - 📫 How to reach me: DM me on Twitter @thefrankamerica
 
 <!---
